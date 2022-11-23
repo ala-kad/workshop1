@@ -1,0 +1,24 @@
+{
+  "name": "workshop1",
+  "version": "1.0.0",
+  "description": "nodejs workshop ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ala-kad/workshop1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mondb"
+  ],
+  "author": "ala kaddechi",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/ala-kad/workshop1/issues"
+  },
+  "homepage": "https://github.com/ala-kad/workshop1#readme"
+}
